@@ -1,0 +1,160 @@
+# z
+z	s
+zz	ss # was s
+# y
+y
+zy	s
+zyz	ss
+zya	sy
+# x
+x	ks # was s
+zx	sks
+zxz	skss
+# w
+w
+zw	s
+zwz	ss
+zwa	sw
+# v
+v	f
+zv	sf
+zvz	sfs
+# u
+u	u
+zu	s
+# t
+t	t
+ztiaz	sxs
+ztioz	sxs
+zthz	s0s
+ztchz	sxs
+ztz	sts
+# s
+s	s
+zshz	sxs
+zsioz	sxs
+zsiaz	sxs
+zs	ss
+zsz	sss
+# r
+r	r
+zr	sr
+zrz	srs
+# q
+q	k
+zq	sk
+zqz	sks
+# p
+p	p
+zp	sp
+zph	sf
+zpz	sps
+# o
+o	o
+zo	s
+# n
+n	n
+zn	sn
+znz	sns
+# m
+m	m
+zm	sm
+zmz	sms
+# l
+l	l
+zl	sl
+zlz	sls
+# k
+k	k
+zk	sk
+zck	sk
+# j
+j	j
+zj	sj
+zjz	sjs
+# i
+i	i
+zi	s
+# h
+h	h # php wrongly says nothing
+zh	sh # php wrongly says s
+zah	s
+zchh	sx
+ha	h
+# g
+g	k
+zg	sk
+zgh	skh # php wrongly says sf
+zghz	shs # php wrongly says sfs
+zgha	sh # php wrongly says sf others wrongly say skh
+zgn	sn
+zgns	skns
+zgned	snt # others wrongly says sknt
+zgneds	sknts # php wrongly says snts
+zgi	sj
+zgiz	sjs
+zge	sj
+zgez	sjs
+zgy	sj
+zgyz	sjs
+zgz	sks
+# f
+f	f
+zf	sf
+zfz	sfs
+# e
+e	e
+ze	s
+# d
+d	t
+fudge	fjj # php wrongly says fj
+dodgy	tjj # php wrongly says tj others wrongly say tjjy
+dodgi	tjj # php wrongly says tj
+zd	st
+zdz	sts
+# c
+c	k
+zcia	sx
+zciaz	sxs
+zch	sx
+zchz	sxs
+zci	ss
+zciz	sss
+zce	ss
+zcez	sss
+zcy	ss
+zcyz	sss
+zsci	ss
+zsciz	sss
+zsce	ss
+zscez	sss
+zscy	ss
+zscyz	sss
+zsch	sskh # php wrongly says ssx
+zc	sk
+zcz	sks
+# b
+b	b
+zb	sb
+zbz	sbs
+zmb	sm
+# a
+a	a
+za	s
+# Miscellaneous.
+dumb	tm
+smith	sm0
+school	skhl # php wrongly says sxl
+merci	mrs
+cool	kl
+aebersold	ebrslt
+gnagy	nj
+knuth	n0
+pniewski	nsk
+wright	rht # php wrongly says rft
+phone	fn
+aggregate	akrkt
+accuracy	akkrs
+encyclopedia	ensklpt
+honorificabilitudinitatibus	hnrfkblttnttbs
+antidisestablishmentarianism	anttsstblxmntrnsm
